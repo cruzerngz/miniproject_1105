@@ -1,6 +1,6 @@
 ## Extract daily exports of entire TMBD database
 ## Function accepts ISO 8601 spec for dates
-## e.g. Full_Mov_DB_2_CSV('YYYY-MM-DD')
+## e.g. full_mov_db_2_csv('YYYY-MM-DD')
 def full_mov_db_2_csv(date):
     ## format the fetch url
     db_online_path='http://files.tmdb.org/p/exports/movie_ids_'+date[5:7]+'_'+date[8:10]+'_'+date[:4]+'.json.gz'
@@ -21,11 +21,13 @@ def full_mov_db_2_csv(date):
 
     
     
-## Wrapping the above code cell into a function
+## variable 'data' is the list of movie ids to call to TMDB
 ## pass the 'id' column from daily export CSV into function
 ## take the first 10 values and increment by an order of magnitude for each iteration
+## >5000 consec api calls and requests will be rate limited
 
 def financialstat_counter(data):
+    ## variable 'data' is the list of movie ids to call to TMDB
     hit=0
     total_count=0
     total_uncount=0
@@ -55,8 +57,8 @@ def financialstat_counter(data):
     return value
 
 
-## input param must be a list/array containing multiple dictionaries that have identically formatted keys
-## Returns a propery formatted dataframe with the keys at column positions
+## input param must be a list/array containing multiple dictionaries that use identical keys
+## Returns a properly formatted dataframe with the keys at column positions
 def consec_dict_2_df(dict_in):
     return_df = None
     for item in dict_in:
@@ -65,6 +67,5 @@ def consec_dict_2_df(dict_in):
             return_df = sub_df.T
         else:
             return_df = pd.concat([return_df,sub_df.T], sort=True)
-    
-    return_df = return_df.convert_dtypes().reset_index()
-    return return_df
+    ## reindex dataframe, auto-convert to most suitable datatype
+    return = return_df.convert_dtypes().reset_index()
