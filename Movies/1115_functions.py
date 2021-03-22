@@ -68,4 +68,4 @@ def consec_dict_2_df(dict_in):
         else:
             return_df = pd.concat([return_df,sub_df.T], sort=True)
     ## reindex dataframe, auto-convert to most suitable datatype
-    return = return_df.convert_dtypes().reset_index()
+    return return_df.convert_dtypes().reset_index()
