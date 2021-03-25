@@ -3707,7 +3707,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1960,1961,33,WRITING (Story and Screenplay--written directly for the screen),"Story by Richard Gregson, Michael Craig;  Screenplay by Bryan Forbes",The Angry Silence,FALSE
 1960,1961,33,WRITING (Story and Screenplay--written directly for the screen),"Billy Wilder, I. A. L. Diamond",The Apartment,TRUE
 1960,1961,33,WRITING (Story and Screenplay--written directly for the screen),"Norman Panama, Melvin Frank",The Facts of Life,FALSE
-1960,1961,33,WRITING (Story and Screenplay--written directly for the screen),Marguerite Duras,"Hiroshima, Mon Amour",FALSE
+1959,1961,33,WRITING (Story and Screenplay--written directly for the screen),Marguerite Duras,"Hiroshima, Mon Amour",FALSE
 1960,1961,33,WRITING (Story and Screenplay--written directly for the screen),Jules Dassin,Never on Sunday,FALSE
 1960,1961,33,JEAN HERSHOLT HUMANITARIAN AWARD,Sol Lesser,,TRUE
 1960,1961,33,HONORARY AWARD, Gary Cooper for his many memorable screen performances and the international recognition he,,TRUE
@@ -3827,8 +3827,8 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1961,1962,34,WRITING (Screenplay--based on material from another medium),"Sidney Carroll, Robert Rossen",The Hustler,FALSE
 1961,1962,34,WRITING (Screenplay--based on material from another medium),Abby Mann,Judgment at Nuremberg,TRUE
 1961,1962,34,WRITING (Screenplay--based on material from another medium),Ernest Lehman,West Side Story,FALSE
-1961,1962,34,WRITING (Story and Screenplay--written directly for the screen),"Valentin Yoshov, Grigori Chukhrai",Ballad of a Soldier,FALSE
-1961,1962,34,WRITING (Story and Screenplay--written directly for the screen),"Sergio Amidei, Diego Fabbri, Indro Montanelli",General Della Rovere,FALSE
+1959,1962,34,WRITING (Story and Screenplay--written directly for the screen),"Valentin Yoshov, Grigori Chukhrai",Ballad of a Soldier,FALSE
+1959,1962,34,WRITING (Story and Screenplay--written directly for the screen),"Sergio Amidei, Diego Fabbri, Indro Montanelli",General Della Rovere,FALSE
 1961,1962,34,WRITING (Story and Screenplay--written directly for the screen),"Federico Fellini, Tullio Pinelli, Ennio Flaiano, Brunello Rondi",La Dolce Vita,FALSE
 1961,1962,34,WRITING (Story and Screenplay--written directly for the screen),"Stanley Shapiro, Paul Henning",Lover Come Back,FALSE
 1961,1962,34,WRITING (Story and Screenplay--written directly for the screen),William Inge,Splendor in the Grass,TRUE
@@ -3837,9 +3837,9 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1961,1962,34,HONORARY AWARD, Fred L. Metzler for his dedication and outstanding service to the Academy of Motion Picture Arts and Sciences.,,TRUE
 1961,1962,34,HONORARY AWARD, Jerome Robbins for his brilliant achievements in the art of choreography on film.,,TRUE
 1961,1962,34,IRVING G. THALBERG MEMORIAL AWARD,Stanley Kramer,,TRUE
-1962,1963,35,ACTOR,Burt Lancaster,Birdman of Alcatraz,FALSE
+1962,1963,35,ACTOR,Burt Lancaster,The Music Man,FALSE
 1962,1963,35,ACTOR,Jack Lemmon,Days of Wine and Roses,FALSE
-1962,1963,35,ACTOR,Marcello Mastroianni,Divorce--Italian Style,FALSE
+1961,1963,35,ACTOR,Marcello Mastroianni,Divorce--Italian Style,FALSE
 1962,1963,35,ACTOR,Peter O'Toole,Lawrence of Arabia,FALSE
 1962,1963,35,ACTOR,Gregory Peck,To Kill a Mockingbird,TRUE
 1962,1963,35,ACTOR IN A SUPPORTING ROLE,Ed Begley,Sweet Bird of Youth,TRUE
@@ -3863,7 +3863,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1962,1963,35,ART DIRECTION (Black-and-White),"Art Direction:  Hal Pereira, Roland Anderson;  Set Decoration:  Sam Comer, Frank R. McKelvy",The Pigeon That Took Rome,FALSE
 1962,1963,35,ART DIRECTION (Black-and-White),"Art Direction:  Alexander Golitzen, Henry Bumstead;  Set Decoration:  Oliver Emert",To Kill a Mockingbird,TRUE
 1962,1963,35,ART DIRECTION (Color),"Art Direction:  John Box, John Stoll;  Set Decoration:  Dario Simoni",Lawrence of Arabia,TRUE
-1962,1963,35,ART DIRECTION (Color),Art Direction:  Paul Groesse;  Set Decoration:  George James Hopkins,Meredith Willson's The Music Man,FALSE
+1962,1963,35,ART DIRECTION (Color),Art Direction:  Paul Groesse;  Set Decoration:  George James Hopkins,The Music Man,FALSE
 1962,1963,35,ART DIRECTION (Color),"Art Direction:  George W. Davis, J. McMillan Johnson;  Set Decoration:  Henry Grace, Hugh Hunt",Mutiny on the Bounty,FALSE
 1962,1963,35,ART DIRECTION (Color),"Art Direction:  Alexander Golitzen, Robert Clatworthy;  Set Decoration:  George Milo",That Touch of Mink,FALSE
 1962,1963,35,ART DIRECTION (Color),"Art Direction:  George W. Davis, Edward Carfagno;  Set Decoration:  Henry Grace, Dick Pefferle",The Wonderful World of the Brothers Grimm,FALSE
@@ -3884,11 +3884,11 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1962,1963,35,COSTUME DESIGN (Black-and-White),Norma Koch,What Ever Happened to Baby Jane?,TRUE
 1962,1963,35,COSTUME DESIGN (Color),Bill Thomas,Bon Voyage!,FALSE
 1962,1963,35,COSTUME DESIGN (Color),Orry-Kelly,Gypsy,FALSE
-1962,1963,35,COSTUME DESIGN (Color),Dorothy Jeakins,Meredith Willson's The Music Man,FALSE
+1962,1963,35,COSTUME DESIGN (Color),Dorothy Jeakins,The Music Man,FALSE
 1962,1963,35,COSTUME DESIGN (Color),Edith Head,My Geisha,FALSE
 1962,1963,35,COSTUME DESIGN (Color),Mary Wills,The Wonderful World of the Brothers Grimm,TRUE
 1962,1963,35,DIRECTING,Frank Perry,David and Lisa,FALSE
-1962,1963,35,DIRECTING,Pietro Germi,Divorce--Italian Style,FALSE
+1961,1963,35,DIRECTING,Pietro Germi,Divorce--Italian Style,FALSE
 1962,1963,35,DIRECTING,David Lean,Lawrence of Arabia,TRUE
 1962,1963,35,DIRECTING,Arthur Penn,The Miracle Worker,FALSE
 1962,1963,35,DIRECTING,Robert Mulligan,To Kill a Mockingbird,FALSE
@@ -3900,7 +3900,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1962,1963,35,FILM EDITING,Anne Coates,Lawrence of Arabia,TRUE
 1962,1963,35,FILM EDITING,Samuel E. Beetley,The Longest Day,FALSE
 1962,1963,35,FILM EDITING,Ferris Webster,The Manchurian Candidate,FALSE
-1962,1963,35,FILM EDITING,William Ziegler,Meredith Willson's The Music Man,FALSE
+1962,1963,35,FILM EDITING,William Ziegler,The Music Man,FALSE
 1962,1963,35,FILM EDITING,"John McSweeney, Jr.",Mutiny on the Bounty,FALSE
 1962,1963,35,FOREIGN LANGUAGE FILM,Greece,Electra,FALSE
 1962,1963,35,FOREIGN LANGUAGE FILM,Italy,The Four Days of Naples,FALSE
@@ -3915,7 +3915,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1962,1963,35,MUSIC (Scoring of Music--adaptation or treatment),George Stoll,Billy Rose's Jumbo,FALSE
 1962,1963,35,MUSIC (Scoring of Music--adaptation or treatment),Michel Magne,Gigot,FALSE
 1962,1963,35,MUSIC (Scoring of Music--adaptation or treatment),Frank Perkins,Gypsy,FALSE
-1962,1963,35,MUSIC (Scoring of Music--adaptation or treatment),Ray Heindorf,Meredith Willson's The Music Man,TRUE
+1962,1963,35,MUSIC (Scoring of Music--adaptation or treatment),Ray Heindorf,The Music Man,TRUE
 1962,1963,35,MUSIC (Scoring of Music--adaptation or treatment),Leigh Harline,The Wonderful World of the Brothers Grimm,FALSE
 1962,1963,35,MUSIC (Song),Music by Henry Mancini; Lyrics by Johnny Mercer,Days of Wine and Roses,TRUE
 1962,1963,35,MUSIC (Song),Music by Bronislau Kaper; Lyrics by Paul Francis Webster,Mutiny on the Bounty,FALSE
@@ -3924,7 +3924,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1962,1963,35,MUSIC (Song),Music by Elmer Bernstein; Lyrics by Mack David,Walk on the Wild Side,FALSE
 1962,1963,35,BEST PICTURE,"Sam Spiegel, Producer",Lawrence of Arabia,TRUE
 1962,1963,35,BEST PICTURE,"Darryl F. Zanuck, Producer",The Longest Day,FALSE
-1962,1963,35,BEST PICTURE,"Morton Da Costa, Producer",Meredith Willson's The Music Man,FALSE
+1962,1963,35,BEST PICTURE,"Morton Da Costa, Producer",The Music Man,FALSE
 1962,1963,35,BEST PICTURE,"Aaron Rosenberg, Producer",Mutiny on the Bounty,FALSE
 1962,1963,35,BEST PICTURE,"Alan J. Pakula, Producer",To Kill a Mockingbird,FALSE
 1962,1963,35,SHORT SUBJECT (Cartoon),"John Hubley and Faith Hubley, Producers",The Hole,TRUE
@@ -3939,7 +3939,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1962,1963,35,SHORT SUBJECT (Live Action),"Herman van der Horst, Producer",Pan,FALSE
 1962,1963,35,SOUND,"Walt Disney Studio Sound Department, Robert O. Cook, Sound Director",Bon Voyage!,FALSE
 1962,1963,35,SOUND,"Shepperton Studio Sound Department, John Cox, Sound Director",Lawrence of Arabia,TRUE
-1962,1963,35,SOUND,"Warner Bros. Studio Sound Department, George R. Groves, Sound Director",Meredith Willson's The Music Man,FALSE
+1962,1963,35,SOUND,"Warner Bros. Studio Sound Department, George R. Groves, Sound Director",The Music Man,FALSE
 1962,1963,35,SOUND,"Universal City Studio Sound Department, Waldon O. Watson, Sound Director",That Touch of Mink,FALSE
 1962,1963,35,SOUND,"Glen Glenn Sound Department, Joseph Kelly, Sound Director",What Ever Happened to Baby Jane?,FALSE
 1962,1963,35,SPECIAL EFFECTS,Visual Effects by Robert MacDonald; Audible Effects by Jacques Maumont,The Longest Day,TRUE
@@ -3949,7 +3949,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1962,1963,35,WRITING (Screenplay--based on material from another medium),Vladimir Nabokov,Lolita,FALSE
 1962,1963,35,WRITING (Screenplay--based on material from another medium),William Gibson,The Miracle Worker,FALSE
 1962,1963,35,WRITING (Screenplay--based on material from another medium),Horton Foote,To Kill a Mockingbird,TRUE
-1962,1963,35,WRITING (Story and Screenplay--written directly for the screen),"Ennio de Concini, Alfredo Giannetti, Pietro Germi",Divorce--Italian Style,TRUE
+1961,1963,35,WRITING (Story and Screenplay--written directly for the screen),"Ennio de Concini, Alfredo Giannetti, Pietro Germi",Divorce--Italian Style,TRUE
 1962,1963,35,WRITING (Story and Screenplay--written directly for the screen),"Story by Charles Kaufman;  Screenplay by Charles Kaufman, Wolfgang Reinhardt",Freud,FALSE
 1962,1963,35,WRITING (Story and Screenplay--written directly for the screen),Alain Robbe-Grillet,Last Year at Marienbad,FALSE
 1962,1963,35,WRITING (Story and Screenplay--written directly for the screen),"Stanley Shapiro, Nate Monaster",That Touch of Mink,FALSE
@@ -4594,7 +4594,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1968,1969,41,COSTUME DESIGN,Morton Haack,Planet of the Apes,FALSE
 1968,1969,41,COSTUME DESIGN,Danilo Donati,Romeo and Juliet,TRUE
 1968,1969,41,COSTUME DESIGN,Donald Brooks,Star!,FALSE
-1968,1969,41,DIRECTING,Gillo Pontecorvo,The Battle of Algiers,FALSE
+1966,1969,41,DIRECTING,Gillo Pontecorvo,The Battle of Algiers,FALSE
 1968,1969,41,DIRECTING,Anthony Harvey,The Lion in Winter,FALSE
 1968,1969,41,DIRECTING,Carol Reed,Oliver!,TRUE
 1968,1969,41,DIRECTING,Franco Zeffirelli,Romeo and Juliet,FALSE
@@ -4659,7 +4659,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1968,1969,41,WRITING (Screenplay--based on material from another medium),Vernon Harris,Oliver!,FALSE
 1968,1969,41,WRITING (Screenplay--based on material from another medium),Stewart Stern,"Rachel, Rachel",FALSE
 1968,1969,41,WRITING (Screenplay--based on material from another medium),Roman Polanski,Rosemary's Baby,FALSE
-1968,1969,41,WRITING (Story and Screenplay--written directly for the screen),"Franco Solinas, Gillo Pontecorvo",The Battle of Algiers,FALSE
+1966,1969,41,WRITING (Story and Screenplay--written directly for the screen),"Franco Solinas, Gillo Pontecorvo",The Battle of Algiers,FALSE
 1968,1969,41,WRITING (Story and Screenplay--written directly for the screen),John Cassavetes,Faces,FALSE
 1968,1969,41,WRITING (Story and Screenplay--written directly for the screen),"Ira Wallach, Peter Ustinov",Hot Millions,FALSE
 1968,1969,41,WRITING (Story and Screenplay--written directly for the screen),Mel Brooks,The Producers,TRUE
@@ -6630,7 +6630,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1987,1988,60,FILM EDITING,"Michael Kahn, Peter E. Berger",Fatal Attraction,FALSE
 1987,1988,60,FILM EDITING,Gabriella Cristiani,The Last Emperor,TRUE
 1987,1988,60,FILM EDITING,Frank J. Urioste,RoboCop,FALSE
-1987,1988,60,FOREIGN LANGUAGE FILM,France,"Au Revoir Les Enfants (Goodbye, Children)",FALSE
+1987,1988,60,FOREIGN LANGUAGE FILM,France,Au Revoir Les Enfants ,FALSE
 1987,1988,60,FOREIGN LANGUAGE FILM,Denmark,Babette's Feast,TRUE
 1987,1988,60,FOREIGN LANGUAGE FILM,Spain,Course Completed,FALSE
 1987,1988,60,FOREIGN LANGUAGE FILM,Italy,The Family,FALSE
@@ -6670,7 +6670,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1987,1988,60,WRITING (Screenplay Based on Material from Another Medium),"Stanley Kubrick, Michael Herr, Gustav Hasford",Full Metal Jacket,FALSE
 1987,1988,60,WRITING (Screenplay Based on Material from Another Medium),"Mark Peploe, Bernardo Bertolucci",The Last Emperor,TRUE
 1987,1988,60,WRITING (Screenplay Based on Material from Another Medium),"Lasse Hallström, Reidar Jönsson, Brasse Brännström, Per Berglund",My Life as a Dog,FALSE
-1987,1988,60,WRITING (Screenplay Written Directly for the Screen),Louis Malle,"Au Revoir Les Enfants (Goodbye, Children)",FALSE
+1987,1988,60,WRITING (Screenplay Written Directly for the Screen),Louis Malle,Au Revoir Les Enfants,FALSE
 1987,1988,60,WRITING (Screenplay Written Directly for the Screen),James L. Brooks,Broadcast News,FALSE
 1987,1988,60,WRITING (Screenplay Written Directly for the Screen),John Boorman,Hope and Glory,FALSE
 1987,1988,60,WRITING (Screenplay Written Directly for the Screen),John Patrick Shanley,Moonstruck,TRUE
@@ -7351,7 +7351,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1994,1995,67,ART DIRECTION,Art Direction:  Ken Adam;  Set Decoration:  Carolyn Scott,The Madness of King George,TRUE
 1994,1995,67,CINEMATOGRAPHY,Don Burgess,Forrest Gump,FALSE
 1994,1995,67,CINEMATOGRAPHY,John Toll,Legends of the Fall,TRUE
-1994,1995,67,CINEMATOGRAPHY,Piotr Sobocinski,Red,FALSE
+1994,1995,67,CINEMATOGRAPHY,Piotr Sobocinski,Three Colours: Red,FALSE
 1994,1995,67,CINEMATOGRAPHY,Roger Deakins,The Shawshank Redemption,FALSE
 1994,1995,67,CINEMATOGRAPHY,Owen Roizman,Wyatt Earp,FALSE
 1994,1995,67,COSTUME DESIGN,"Lizzy Gardiner, Tim Chappel","The Adventures of Priscilla, Queen of the Desert",TRUE
@@ -7363,7 +7363,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1994,1995,67,DIRECTING,Robert Zemeckis,Forrest Gump,TRUE
 1994,1995,67,DIRECTING,Quentin Tarantino,Pulp Fiction,FALSE
 1994,1995,67,DIRECTING,Robert Redford,Quiz Show,FALSE
-1994,1995,67,DIRECTING,Krzysztof Kieslowski,Red,FALSE
+1994,1995,67,DIRECTING,Krzysztof Kieslowski,Three Colours: Red,FALSE
 1994,1995,67,DOCUMENTARY (Feature),Deborah Hoffmann,Complaints of a Dutiful Daughter,FALSE
 1994,1995,67,DOCUMENTARY (Feature),Charles Guggenheim,D-Day Remembered,FALSE
 1994,1995,67,DOCUMENTARY (Feature),"Connie Field, Marilyn Mulford",Freedom on My Mind,FALSE
@@ -7432,7 +7432,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1994,1995,67,WRITING (Screenplay Written Directly for the Screen),Richard Curtis,Four Weddings and a Funeral,FALSE
 1994,1995,67,WRITING (Screenplay Written Directly for the Screen),"Frances Walsh, Peter Jackson",Heavenly Creatures,FALSE
 1994,1995,67,WRITING (Screenplay Written Directly for the Screen),Screenplay by Quentin Tarantino;  Stories by Quentin Tarantino & Roger Avary,Pulp Fiction,TRUE
-1994,1995,67,WRITING (Screenplay Written Directly for the Screen),"Krzysztof Piesiewicz, Krzysztof Kieslowski",Red,FALSE
+1994,1995,67,WRITING (Screenplay Written Directly for the Screen),"Krzysztof Piesiewicz, Krzysztof Kieslowski",Three Colours: Red,FALSE
 1994,1995,67,JEAN HERSHOLT HUMANITARIAN AWARD,Quincy Jones,,TRUE
 1994,1995,67,HONORARY AWARD, Michelangelo Antonioni in recognition of his place as one of the cinema's master visual stylists.,,TRUE
 1994,1995,67,IRVING G. THALBERG MEMORIAL AWARD,Clint Eastwood,,TRUE
