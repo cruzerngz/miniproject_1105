@@ -150,10 +150,14 @@ def strtolist(str_in):
     if (str(str_in)):
         returnlist = []
         
-        tmp = str_in.strip("[]")
+        tmp = str_in.strip("[]''")
         #print(tmp)
-        tmp = tmp.split(",")
+        tmp = tmp.split(", ")
         #print(tmp)
+        
+        ## if str representation of list contains nothing, return empty list
+        if len(tmp)==1 and len(tmp[0])==0:
+            return []
         
         ## attept int conversion
         try:
