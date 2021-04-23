@@ -172,3 +172,107 @@ def strtolist(str_in):
                     returnlist.append(item.strip('''"''"'''))
                     
         return returnlist
+    
+## converts the data in ./data into one that is ready to be sent into ML
+def makeready(df_in):
+
+    new_headers = {
+    'cast':['cast_0','cast_1','cast_2','cast_3'],
+    'producers':['producer_0','producer_1'],
+    'screenplay':['screenplay_0']
+    }
+    
+    df_in.drop(['Unnamed: 0',
+               'runtime',
+               'nominee'], axis=1, inplace=True)
+    
+    df_in.rename({
+    'year_film':'year',
+    'oscar_category':'oscar_cat',
+    'no_oscar_wins':'oscar_win_count',
+    'no_oscar_nominations':'oscar_nominations',
+    'staring_casts':'cast',
+    'casts_popularity':'cast_popularity',
+    'rotten_tomatoes_rating':'rotten_tomatoes'
+    }, axis=1, inplace=True)
+    
+    for item in new_headers:
+        df_in[item] = [strtolist(df_in[item][index]) for index in range(len(df_in))]
+    
+    for currheader in new_headers:
+        ## look for target subcols, check if they exist first
+        if currheader in df_in:
+            ## perform addition of new cols from currheader list containing only 1 entry, NAN if list index out of range
+            for subcol in range(len(new_headers[currheader])):
+
+                tmp_list = []
+                for i in range(len(df_in)):
+                    ## checks if list index still in range
+                    try:
+                        tmp_list.append(df_in[currheader][i][subcol])
+                    ## adds NAN if out of range
+                    except:
+                        tmp_list.append(None)
+
+                df_in[new_headers[currheader][subcol]] = tmp_list
+        
+    df_in.drop([
+    'year_ceremony','cast','producers','screenplay'
+    ], axis=1, inplace=True)
+    
+    col_list_reorder = [
+    'film',
+    'budget', ## not inside?
+    'revenue', ## not inside?
+    'oscar_cat',
+    'oscar_win',
+    'oscar_nominations',
+    #'oscar_win_count',
+    'total_wins',
+    'total_nominations',
+    'cast_popularity',
+    'crew_popularity',
+    'tmdb_vote_average',
+    'tmdb_vote_count',
+    'imdb_rating',
+    'imdb_votes',
+    'rotten_tomatoes',
+    'metascore',
+    'director',
+    'cast_0',
+    'cast_1',
+    'cast_2',
+    'cast_3',
+    'producer_0',
+    'producer_1',
+    'screenplay_0',
+    'Drama',
+    'History',
+    'Music',
+    'Action',
+    'Adventure',
+    'Animation',
+    'Comedy',
+    'Crime',
+    'Family',
+    'Fantasy',
+    'Horror',
+    'Mystery',
+    'Romance',
+    'Science Fiction',
+    'Thriller',
+    'War',
+    'Western',           
+    ]
+    df_in = df_in[col_list_reorder]
+    
+    df_in.dropna(axis=0, subset=['producer_0',], inplace=True)
+    ## remove genre_id_1, producer_1 and screenplay_0, too little values, cannot be substituted for stuff like average
+    df_in.drop([
+        'producer_1',
+        'screenplay_0',
+        'budget',
+        'revenue'
+    ], axis=1, inplace=True)
+    
+    return df_in
