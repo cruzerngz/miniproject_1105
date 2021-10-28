@@ -1,0 +1,26 @@
+Now, moving on to the machine learning part
+As the objective is predicting if a movie wins an oscar or not, this
+is a logistic regression problem. 
+So, we primarily used sklearn's ensemble machine learning methods. 
+They are: Boosted trees and random forests
+Furthermore, some popular ML libraries such as XGboost and neural networks are used
+The reason for choosing ensemble learing methods are that there are many fields in the data being ingested by the model. Simple model like linear regression will not work.
+Theese nsemble algorithms also iteratively train many weak classifiers to create a better model.
+A challenge we faced in machine earning is that objects and strings cannot be processed by the model. Hence all strings need to be converted to an integer representation. 
+Cat, One-hot, and hashing
+Categorical encoding converts each unique entry into a number, and depends on the number of unique values processed at the current time.
+This poses a problem as fresh data will not give the same result.
+So, one-hot encoding is another option. Each unique object is assigned a new column and is a movie that contains that unique object is assigned a 1 to that field. Problem with this method is that when there are many unique entries in a field to be converted, there will be a large number of columns that will be generated.
+To solve the problem, hashing is used to convert each unique object to a unique integer in a repeatable way. In the end, a combination of one-hot an hashing are used to prepare the data for use in machine learning.
+ANother prbem faced is that movies released recently do not have the same sales figures as movies released before 2020. So, the revenue field is not used for machine learning.
+
+Feature selection was used to find out the best fields with the highest correleation to win the oscars. This will help to better train the ML model.
+
+Next, try out which ensemble model works the best for data.
+After runinnig each model through the same dataset, 
+Adaptive boosting performs the est out of the 5 methods, 
+as you can see from the heatmap of each of the model, adaboost also has the highest true positive and negative rates. 
+
+So, for the actual prediction, Adaboost will be used on the nominees of 93rd academy awards.
+
+
